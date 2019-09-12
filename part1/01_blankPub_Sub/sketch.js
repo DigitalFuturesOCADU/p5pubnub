@@ -17,7 +17,7 @@ let channelName = "messageChannel";
 
 function setup() 
 {
-  getAudioContext().resume();
+  
   createCanvas(windowWidth,windowHeight);
   background(255);
   
