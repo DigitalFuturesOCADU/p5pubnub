@@ -30,7 +30,7 @@ let cSizeY = 600;
 //name used to sort your messages. used like a radio station. can be called anything
 let channelName = "dots";
 
-let historyCount = 100;  //how many messages to load from history
+let historyCount = 300;  //how many messages to load from history
 
 
 function setup() 
@@ -75,11 +75,12 @@ function setup()
   dataServer.history(
     {
         channel: channelName,
-        count: historyCount
+        count: historyCount,
+        reverse: false
     },
     function (status, response)
       {
-        //console.log(response.messages);
+        console.log(response.messages);
 
         for(let i =0; i<response.messages.length;i++)
         {
