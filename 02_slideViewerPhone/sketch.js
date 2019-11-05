@@ -9,7 +9,8 @@ PubNub
 //within your group, you will use 1 of your accounts for the project
 
 let dataServer;
-let subKey = 'sub-c-f13c7c34-d4bb-11e9-8ccb-1a8b78dd2c27';
+
+let subKey = 'sub-c-81e561d6-ffe3-11e9-819e-82cdbbe6698c';
 
 //name used to sort your messages. used like a radio station. can be called anything
 let channelName = "powerpoint";

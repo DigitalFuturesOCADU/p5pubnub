@@ -8,8 +8,8 @@ send cursorData
 //within your group, you will use 1 of your accounts for the project
 
 let dataServer;
-let pubKey = 'pub-c-91ecead1-4d96-4dc0-a038-08de68b0c189';
-let subKey = 'sub-c-7d6d357e-d5af-11e9-b2f2-9a66d3fcadaa';
+let pubKey = 'pub-c-4acc0658-0730-4a5f-bcab-7a86c08d8bc4';
+let subKey = 'sub-c-81e561d6-ffe3-11e9-819e-82cdbbe6698c';
 
 //name used to sort your messages. used like a radio station. can be called anything
 let channelName = "cursor";

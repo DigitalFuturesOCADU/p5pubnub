@@ -9,8 +9,8 @@ Blank pubnub sketch
 //within your group, you will use 1 of your accounts for the project
 
 let dataServer;
-let pubKey = 'pub-c-746abc06-ab6a-4450-b91f-c90e3e492917';
-let subKey = 'sub-c-f13c7c34-d4bb-11e9-8ccb-1a8b78dd2c27';
+let pubKey = 'pub-c-4acc0658-0730-4a5f-bcab-7a86c08d8bc4';
+let subKey = 'sub-c-81e561d6-ffe3-11e9-819e-82cdbbe6698c';
 
 //name used to sort your messages. used like a radio station. can be called anything
 let channelName = "messageChannel";
