@@ -1,6 +1,6 @@
 # p5pubnub
 ## Networking examples using P5.js + PubNub
-#### These examples have been for various courses introducing methods for creating networked experiences with only frontend coding in P5. To work with this code you will need a free [PubNub account](pubnub.com).
+#### These examples have been created for various courses introducing methods for creating networked experiences with only frontend coding in P5. To work with this code you will need a free [PubNub account](pubnub.com).
 
 ## Basic Setup
 #### Get your publish and subscribe keys from your account. Define a global variable to hold the PubNub object. Also define the name of a channel to broadcast on within your account.  Messages can be sent/received on multiple channels.
