@@ -9,7 +9,8 @@ Receive cursorData
 
 let dataServer;
 
-let subKey = 'sub-c-81e561d6-ffe3-11e9-819e-82cdbbe6698c';
+
+let subKey = 'insert your sub key';
 
 //name used to sort your messages. used like a radio station. can be called anything
 let channelName = "cursor";
