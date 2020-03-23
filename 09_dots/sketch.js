@@ -52,7 +52,7 @@ ellipse(inmouseX,inmouseY,50,50);
 
 
 ///uses built in mouseClicked function to send the data to the pubnub server
-function mouseDragged() {
+function mouseClicked() {
  
 
   // Send Data to the server to draw it in all other canvases
