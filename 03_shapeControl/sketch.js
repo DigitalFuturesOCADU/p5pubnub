@@ -1,6 +1,7 @@
 /*
 PubNub  
  * Receiver file that changes the shape of a polygon
+  * Requires Example 02A_SlideShowRemote as the input
  */
 
 
