@@ -1,6 +1,6 @@
 # p5pubnub
 ## Networking examples using P5.js + PubNub
-#### These examples have been created for various courses introducing methods for creating networked experiences with only frontend coding in P5. To work with this code you will need a free [PubNub account](pubnub.com).
+#### These examples have been created for various courses introducing methods for creating networked experiences with only frontend coding in P5. To work with this code you will need a free [PubNub account](pubnub.com). Messages are sent/received as JSON , so you can create multiple levels of complexity. I have generally found the latency to be about 100ms.
 
 #### PubNub SDK
 [Javascript SDK](https://www.pubnub.com/docs/web-javascript/pubnub-javascript-sdk)
