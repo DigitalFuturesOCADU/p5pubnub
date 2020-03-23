@@ -1,6 +1,7 @@
 /*
 PubNub  
- * Receiver file that cycles through images based on the input from the controller 
+ * Receiver file that cycles through images based on the input from the controller
+  * Requires Example 02A_SlideShowRemote as the input
  */
 
 
